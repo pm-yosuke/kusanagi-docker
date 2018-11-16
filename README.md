@@ -1,3 +1,7 @@
+# Attention: EOL will be at 31 Dec 2018
+Repository move to :
+* [GitHub (presmaninc/pm-kusanagi-docker)](https://github.com/pressmaninc/pm-kusanagi-docker)
+
 # pm-kusanagi-docker
 KUSANAGI Runs on Docker Ver. PRESSMAN
 
